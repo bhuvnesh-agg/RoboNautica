@@ -41,3 +41,10 @@ Steps to run:
 `task_3.py`:
     This is a simple script that sends a goal of moving forward 5 meters straight ahead to the bot.
     The obstacle detection is handled by the Nav Stack itself.
+
+## Team Members
+Bhuvnesh Aggarwal
+
+Dushyant Agrawal
+
+Nikita Gupta
